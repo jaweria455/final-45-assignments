@@ -1,7 +1,4 @@
-//lowercase
-var personName = "Jaweria";
-console.log("lowercase:", personName.toLowerCase());
-//uppercase
-console.log("uppercase:", personName.toLocaleUpperCase());
-//titlecase
-console.log("titlecase:", personName.replace(/bw/g, function (c) { return c.toUpperCase(); }));
+console.log(5 + 3);
+console.log(10 - 2);
+console.log(4 * 2);
+console.log(16 / 2);
